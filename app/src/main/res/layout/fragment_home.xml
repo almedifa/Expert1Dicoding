@@ -18,7 +18,7 @@
             android:layout_height="wrap_content"
             android:text="@string/list_food"
             android:textStyle="bold"
-            android:textSize="24dp"
+            android:textSize="24sp"
             android:layout_marginStart="16dp"
             android:layout_marginTop="12dp"
             android:layout_marginBottom="12dp"
