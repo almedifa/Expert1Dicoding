@@ -16,7 +16,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/title_home"
+            android:text="@string/list_food"
             android:textStyle="bold"
             android:textSize="24dp"
             android:layout_marginStart="16dp"
